@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "releaseDate": "2026-10-21",
+  "downloadUrl": "https://github.com/coffeelakedevv/brew-messenger/releases/latest",
+  "notes": {
+    "en": "First public release.",
+    "tr": "İlk genel sürüm.",
+    "es": "Primera versión pública.",
+    "de": "Erste öffentliche Version.",
+    "fr": "Première version publique.",
+    "pt": "Primeira versão pública.",
+    "pl": "Pierwsze publiczne wydanie.",
+    "it": "Prima versione pubblica.",
+    "id": "Rilis publik pertama.",
+    "vi": "Phiên bản công khai đầu tiên.",
+    "fil": "Unang pampublikong release."
+  }
+}
